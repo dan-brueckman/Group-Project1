@@ -1,5 +1,5 @@
 # Group-Project1
-Project Title: /n
+Project Title:
   -U.S. Food Costs vs. Life Expectancy
 Team Members: 
   -Dan Brueckman
