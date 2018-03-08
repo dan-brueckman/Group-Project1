@@ -22,14 +22,3 @@ We could make multiple graphs of the demographics and make an analysis of a poss
 Or We can find the districts with the highest turnover and figure out the changes in demographics in that district since the last census.
 
 OR we can try to find a simple correlation between say health and education/income or go further and look into health (obesity) and voter patterns.
-
-3. Music
-
-What shows will be more likely to sell out.
-
-We need a list of shows that have sold out (artist, date, city, venue, venue capacity) this can be a fake one just to try it out.
-We can compare the popularity of that band (or songs) at the time of the show 
-
-I'm probably the least proficient of the team so I dont want to impose anything but think about what APIs
-
-We can discuss tomorrow.
