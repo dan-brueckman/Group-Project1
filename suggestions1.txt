@@ -1,0 +1,24 @@
+Guys, I think the point of the class is to be able to learn to answer interesting questions we may have. We should be using this oportunity to hone the 
+skills we need to answer thos questions. So ask yourselves, what APIs, would I want to start getting familiarized with?
+
+I have a few suggestions of questions we can try to answer:
+
+1. Restaurant
+
+What is the best location in Austin to open a restaurant (Chick-fil-a for example).
+
+We can do a map where we visualize the current chickfill-a locations with markers or as sized circles (depicting the areas they served by each location)
+and overlap that map with say a heat map that has the food establishments the areas where the most red is visible may be a good opportunity for a chickfilla.
+
+We could also add a third color heat map where we show population density or household income to see which areas left unserved are the best fit.
+
+2. Politics.
+
+We can try to figure out the demographics of, say, the most purple districts or find out a specific subset of the voter population that historically votes a certain way
+ and find which districts added more of those voters since the last election either by age or by migration
+
+We could make multiple graphs of the demographics and make an analysis of a possible campaign strategy. This is probably somewhat impressive and not that complicated. Itd be just graphs of the same data set.
+
+Or We can find the districts with the highest turnover and figure out the changes in demographics in that district since the last census.
+
+OR we can try to find a simple correlation between say health and education/income or go further and look into health (obesity) and voter patterns.
