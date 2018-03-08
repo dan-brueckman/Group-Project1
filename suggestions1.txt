@@ -12,7 +12,7 @@ and overlap that map with say a heat map that has the food establishments the ar
 
 We could also add a third color heat map where we show population density or household income to see which areas left unserved are the best fit.
 
-2. Politics
+2. Politics.
 
 We can try to figure out the demographics of, say, the most purple districts or find out a specific subset of the voter population that historically votes a certain way
  and find which districts added more of those voters since the last election either by age or by migration
