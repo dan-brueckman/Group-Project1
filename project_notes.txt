@@ -1,0 +1,20 @@
+IMPORTANT VARIABLES/DATAFRAMES
+
+data = complete data on all fifty states, including males and females individually, each individual race, all years.
+all_data = variation of "data", with data on all states, all cancers totaled, male and female totaled, all races totaled
+all_pop_incidence_data = variation of "all_data" that shows only incidences of cancer by state each year with a column for % of population that had an incidence of any cancer
+all_pop_mortality_data = variation of "all_data" that shows only incidences of cancer by state each year with a column for % of population that died from any cancer
+state_pop_incidences_df = variation of "all_pop_incidence_data" that has taken the average cancer incidences from 1999 - 2014 in each state
+state_pop_mortality_df = variation of "all_pop_mortality_data" that has taken the average cancer mortalities from 1999 - 2014 in each state
+state_mortality_rate_df = contains mortality rate each year for each state, excluding exceptions below
+average_state_mortality_df = contains the average of each states mortality rate for years 1999-2014, excluding below exceptions
+
+
+
+DATA REMOVED (exceptions)
+
+Arkansas - 1999, 2000
+Nevada - 2011
+District of Columbia - 2002
+Mississippi - 1999, 2000, 2001, 2002
+South Dakota - 1999, 2000
