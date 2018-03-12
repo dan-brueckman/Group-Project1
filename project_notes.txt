@@ -8,6 +8,8 @@ IMPORTANT VARIABLES/DATAFRAMES
 -state_pop_mortality_df = variation of "all_pop_mortality_data" that has taken the average cancer mortalities from 1999 - 2014 in each state
 -state_mortality_rate_df = contains mortality rate each year for each state, excluding exceptions below
 -average_state_mortality_df = contains the average of each states mortality rate for years 1999-2014, excluding below exceptions
+-hrqol_df = data for rate of health related quality of life by state from 1999-2010
+-avg_state_hrqol_df = contains the average of each states hrqol rate for years 1999-2010
 
 
 DATA REMOVED (exceptions)
