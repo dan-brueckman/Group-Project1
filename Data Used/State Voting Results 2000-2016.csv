@@ -1,0 +1,256 @@
+﻿Year,State,Result
+2000,Alabama,1
+2004,Alabama,1
+2008,Alabama,1
+2012,Alabama,1
+2016,Alabama,1
+2000,Alaska,1
+2004,Alaska,1
+2008,Alaska,1
+2012,Alaska,1
+2016,Alaska,1
+2000,Arizona,1
+2004,Arizona,1
+2008,Arizona,1
+2012,Arizona,1
+2016,Arizona,1
+2000,Arkansas,1
+2004,Arkansas,1
+2008,Arkansas,1
+2012,Arkansas,1
+2016,Arkansas,1
+2000,California,0
+2004,California,0
+2008,California,0
+2012,California,0
+2016,California,0
+2000,Colorado ,1
+2004,Colorado ,1
+2008,Colorado ,0
+2012,Colorado ,0
+2016,Colorado ,0
+2000,Connecticut,0
+2004,Connecticut,0
+2008,Connecticut,0
+2012,Connecticut,0
+2016,Connecticut,0
+2000,Delaware,0
+2004,Delaware,0
+2008,Delaware,0
+2012,Delaware,0
+2016,Delaware,0
+2000,Florida,1
+2004,Florida,1
+2008,Florida,0
+2012,Florida,0
+2016,Florida,1
+2000,Georgia,1
+2004,Georgia,1
+2008,Georgia,1
+2012,Georgia,1
+2016,Georgia,1
+2000,Hawaii,0
+2004,Hawaii,0
+2008,Hawaii,0
+2012,Hawaii,0
+2016,Hawaii,0
+2000,Idaho,1
+2004,Idaho,1
+2008,Idaho,1
+2012,Idaho,1
+2016,Idaho,1
+2000,Illinois,0
+2004,Illinois,0
+2008,Illinois,0
+2012,Illinois,0
+2016,Illinois,0
+2000,Indiana,1
+2004,Indiana,1
+2008,Indiana,0
+2012,Indiana,1
+2016,Indiana,1
+2000,Iowa,0
+2004,Iowa,1
+2008,Iowa,0
+2012,Iowa,0
+2016,Iowa,1
+2000,Kansas,1
+2004,Kansas,1
+2008,Kansas,1
+2012,Kansas,1
+2016,Kansas,1
+2000,Kentucky,1
+2004,Kentucky,1
+2008,Kentucky,1
+2012,Kentucky,1
+2016,Kentucky,1
+2000,Louisana,1
+2004,Louisana,1
+2008,Louisana,1
+2012,Louisana,1
+2016,Louisana,1
+2000,Maine,0
+2004,Maine,0
+2008,Maine,0
+2012,Maine,0
+2016,Maine,0
+2000,Maryland,0
+2004,Maryland,0
+2008,Maryland,0
+2012,Maryland,0
+2016,Maryland,0
+2000,Massachusetts,0
+2004,Massachusetts,0
+2008,Massachusetts,0
+2012,Massachusetts,0
+2016,Massachusetts,0
+2000,Michigan,0
+2004,Michigan,0
+2008,Michigan,0
+2012,Michigan,0
+2016,Michigan,1
+2000,Minnesota,0
+2004,Minnesota,0
+2008,Minnesota,0
+2012,Minnesota,0
+2016,Minnesota,0
+2000,Mississippi,1
+2004,Mississippi,1
+2008,Mississippi,1
+2012,Mississippi,1
+2016,Mississippi,1
+2000,Missouri,1
+2004,Missouri,1
+2008,Missouri,1
+2012,Missouri,1
+2016,Missouri,1
+2000,Montana,1
+2004,Montana,1
+2008,Montana,1
+2012,Montana,1
+2016,Montana,1
+2000,Nebraska,1
+2004,Nebraska,1
+2008,Nebraska,1
+2012,Nebraska,1
+2016,Nebraska,1
+2000,Nevada,1
+2004,Nevada,1
+2008,Nevada,0
+2012,Nevada,0
+2016,Nevada,0
+2000,New Hampshire,1
+2004,New Hampshire,0
+2008,New Hampshire,0
+2012,New Hampshire,0
+2016,New Hampshire,0
+2000,New Jersey,0
+2004,New Jersey,0
+2008,New Jersey,0
+2012,New Jersey,0
+2016,New Jersey,0
+2000,New Mexico,0
+2004,New Mexico,1
+2008,New Mexico,0
+2012,New Mexico,0
+2016,New Mexico,0
+2000,New York,0
+2004,New York,0
+2008,New York,0
+2012,New York,0
+2016,New York,0
+2000,North Carolina,1
+2004,North Carolina,1
+2008,North Carolina,0
+2012,North Carolina,1
+2016,North Carolina,1
+2000,North Dakota,1
+2004,North Dakota,1
+2008,North Dakota,1
+2012,North Dakota,1
+2016,North Dakota,1
+2000,Ohio,1
+2004,Ohio,1
+2008,Ohio,0
+2012,Ohio,0
+2016,Ohio,1
+2000,Oklahoma,1
+2004,Oklahoma,1
+2008,Oklahoma,1
+2012,Oklahoma,1
+2016,Oklahoma,1
+2000,Oregon,0
+2004,Oregon,0
+2008,Oregon,0
+2012,Oregon,0
+2016,Oregon,0
+2000,Pennsylvania,0
+2004,Pennsylvania,0
+2008,Pennsylvania,0
+2012,Pennsylvania,0
+2016,Pennsylvania,1
+2000,Rhode Island,0
+2004,Rhode Island,0
+2008,Rhode Island,0
+2012,Rhode Island,0
+2016,Rhode Island,0
+2000,South Carolina,1
+2004,South Carolina,1
+2008,South Carolina,1
+2012,South Carolina,1
+2016,South Carolina,1
+2000,South Dakota,1
+2004,South Dakota,1
+2008,South Dakota,1
+2012,South Dakota,1
+2016,South Dakota,1
+2000,Tennessee,1
+2004,Tennessee,1
+2008,Tennessee,1
+2012,Tennessee,1
+2016,Tennessee,1
+2000,Texas,1
+2004,Texas,1
+2008,Texas,1
+2012,Texas,1
+2016,Texas,1
+2000,Utah,1
+2004,Utah,1
+2008,Utah,1
+2012,Utah,1
+2016,Utah,1
+2000,Vermont,0
+2004,Vermont,0
+2008,Vermont,0
+2012,Vermont,0
+2016,Vermont,0
+2000,Virginia,1
+2004,Virginia,1
+2008,Virginia,0
+2012,Virginia,0
+2016,Virginia,0
+2000,Washington,0
+2004,Washington,0
+2008,Washington,0
+2012,Washington,0
+2016,Washington,0
+2000,West Virginia,1
+2004,West Virginia,1
+2008,West Virginia,1
+2012,West Virginia,1
+2016,West Virginia,1
+2000,Wisconsin,0
+2004,Wisconsin,0
+2008,Wisconsin,0
+2012,Wisconsin,0
+2016,Wisconsin,1
+2000,Wyoming,1
+2004,Wyoming,1
+2008,Wyoming,1
+2012,Wyoming,1
+2016,Wyoming,1
+2000,Washington DC,0
+2004,Washington DC,0
+2008,Washington DC,0
+2012,Washington DC,0
+2016,Washington DC,0
