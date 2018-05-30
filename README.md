@@ -19,10 +19,10 @@
   * data.gov
 ## Breakdown of Tasks:
   * Team Lead
-    * Deric Patton
+    * Dan Brueckman
   * Scrum Master
     * Heather
   * Data Engineer
     * Alfonso Moreno
   * Tester
-    * Dan Brueckman 
+    * Deric Patton 
